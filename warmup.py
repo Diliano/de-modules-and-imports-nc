@@ -6,14 +6,20 @@ import examples.file_5 as something_5
 
 # Before you un-comment these print statements think about what you might see.
 
-# print(something_1)
+# Danika
+print(something_1)
 
-# print(something_2)
+# {'name': 'Cat'}
+print(something_2)
 
-# print(something_3)
+# [1, 2, 3, 4, 5]
+print(something_3)
 
-# print(something_4)
+# function_1
+print(something_4)
 
-# print(something_4())
+# None
+print(something_4())
 
-# print(something_5)
+# module
+print(something_5)
