@@ -23,3 +23,6 @@ print(something_4())
 
 # module
 print(something_5)
+
+something_5.print_greeting()
+print(something_5.add(2, 3))
