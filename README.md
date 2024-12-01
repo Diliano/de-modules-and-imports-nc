@@ -1,3 +1,5 @@
-# DE Intro - Modules and Imports
+# Data Engineering Bootcamp - Modules & Imports
 
-Instructions for this repo can be found at: https://l2c.northcoders.com/courses/de2-intro/modules-and-imports
+## Overview
+
+This repository contains work completed as part of the Modules & Imports Sprint during my Data Engineering Bootcamp. 
